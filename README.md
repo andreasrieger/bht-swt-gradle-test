@@ -1,0 +1,1 @@
+# bit-swt-gradle-test
